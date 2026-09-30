@@ -8,7 +8,7 @@
 export const LINKS = {
   site: 'https://aladdincode.netlify.app',
   github: 'https://github.com/Aladdin-Codes',
-  linkedin: 'https://www.linkedin.com/in/nurudeen-salihu-professional-profile',
+  linkedin: 'https://www.linkedin.com/in/nurudeensalihu',
   resume: '/Nurudeen-Salihu-Resume.pdf',
   email: 'Nurudeen.dev@gmail.com',
   phone: '+2347065020706',
